@@ -1,0 +1,11 @@
+# Ignore build directories
+build/
+
+# Ignore IDE files
+.idea/
+*.suo
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
